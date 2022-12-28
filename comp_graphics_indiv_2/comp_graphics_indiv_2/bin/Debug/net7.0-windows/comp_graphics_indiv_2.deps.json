@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "comp_graphics_indiv_2/1.0.0": {
+        "runtime": {
+          "comp_graphics_indiv_2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "comp_graphics_indiv_2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

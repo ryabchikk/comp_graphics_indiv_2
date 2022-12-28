@@ -1,0 +1,17 @@
+C:\Users\Numetrix\Desktop\graphics\comp_graphics_indiv_2\comp_graphics_indiv_2\comp_graphics_indiv_2\bin\Debug\net7.0-windows\comp_graphics_indiv_2.exe
+C:\Users\Numetrix\Desktop\graphics\comp_graphics_indiv_2\comp_graphics_indiv_2\comp_graphics_indiv_2\bin\Debug\net7.0-windows\comp_graphics_indiv_2.deps.json
+C:\Users\Numetrix\Desktop\graphics\comp_graphics_indiv_2\comp_graphics_indiv_2\comp_graphics_indiv_2\bin\Debug\net7.0-windows\comp_graphics_indiv_2.runtimeconfig.json
+C:\Users\Numetrix\Desktop\graphics\comp_graphics_indiv_2\comp_graphics_indiv_2\comp_graphics_indiv_2\bin\Debug\net7.0-windows\comp_graphics_indiv_2.dll
+C:\Users\Numetrix\Desktop\graphics\comp_graphics_indiv_2\comp_graphics_indiv_2\comp_graphics_indiv_2\bin\Debug\net7.0-windows\comp_graphics_indiv_2.pdb
+C:\Users\Numetrix\Desktop\graphics\comp_graphics_indiv_2\comp_graphics_indiv_2\comp_graphics_indiv_2\obj\Debug\net7.0-windows\comp_graphics_indiv_2.csproj.AssemblyReference.cache
+C:\Users\Numetrix\Desktop\graphics\comp_graphics_indiv_2\comp_graphics_indiv_2\comp_graphics_indiv_2\obj\Debug\net7.0-windows\comp_graphics_indiv_2.Form1.resources
+C:\Users\Numetrix\Desktop\graphics\comp_graphics_indiv_2\comp_graphics_indiv_2\comp_graphics_indiv_2\obj\Debug\net7.0-windows\comp_graphics_indiv_2.csproj.GenerateResource.cache
+C:\Users\Numetrix\Desktop\graphics\comp_graphics_indiv_2\comp_graphics_indiv_2\comp_graphics_indiv_2\obj\Debug\net7.0-windows\comp_graphics_indiv_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Numetrix\Desktop\graphics\comp_graphics_indiv_2\comp_graphics_indiv_2\comp_graphics_indiv_2\obj\Debug\net7.0-windows\comp_graphics_indiv_2.AssemblyInfoInputs.cache
+C:\Users\Numetrix\Desktop\graphics\comp_graphics_indiv_2\comp_graphics_indiv_2\comp_graphics_indiv_2\obj\Debug\net7.0-windows\comp_graphics_indiv_2.AssemblyInfo.cs
+C:\Users\Numetrix\Desktop\graphics\comp_graphics_indiv_2\comp_graphics_indiv_2\comp_graphics_indiv_2\obj\Debug\net7.0-windows\comp_graphics_indiv_2.csproj.CoreCompileInputs.cache
+C:\Users\Numetrix\Desktop\graphics\comp_graphics_indiv_2\comp_graphics_indiv_2\comp_graphics_indiv_2\obj\Debug\net7.0-windows\comp_graphics_indiv_2.dll
+C:\Users\Numetrix\Desktop\graphics\comp_graphics_indiv_2\comp_graphics_indiv_2\comp_graphics_indiv_2\obj\Debug\net7.0-windows\refint\comp_graphics_indiv_2.dll
+C:\Users\Numetrix\Desktop\graphics\comp_graphics_indiv_2\comp_graphics_indiv_2\comp_graphics_indiv_2\obj\Debug\net7.0-windows\comp_graphics_indiv_2.pdb
+C:\Users\Numetrix\Desktop\graphics\comp_graphics_indiv_2\comp_graphics_indiv_2\comp_graphics_indiv_2\obj\Debug\net7.0-windows\comp_graphics_indiv_2.genruntimeconfig.cache
+C:\Users\Numetrix\Desktop\graphics\comp_graphics_indiv_2\comp_graphics_indiv_2\comp_graphics_indiv_2\obj\Debug\net7.0-windows\ref\comp_graphics_indiv_2.dll
